@@ -1,0 +1,5 @@
+# frontend/.dockerignore
+.env
+.venv
+env/
+venv/
